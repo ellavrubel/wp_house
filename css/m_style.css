@@ -88,3 +88,76 @@ body{
     font-weight: 700;
     font-size: 32px;
 }
+.project__images{
+    margin-top: 42px;
+}
+
+.download{
+    margin: 150px 0 90px;
+    background-color: #f1dfbc;
+    padding: 44px 0;
+}
+
+.download img{
+    display: block;
+    margin: 0 auto;
+}
+
+.download a{
+    display: inline-block;
+    width: 350px;
+    color: #fff;
+    border: 3px solid #effd15;
+    padding: 10px 0;
+    background-color: #17753b;
+}
+
+.gallery__title{
+    font-weight: 700;
+    font-size: 41px;
+    color: #d07a2d;
+    margin-bottom: 40px;
+}
+
+.gallery__inner{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+}
+
+.footer{
+    text-align: center;
+}
+.footer .phone{
+    font-weight: 700;
+}
+
+.footer__email{
+    margin: 90px 0 150px;
+    font-family: Lato, sans-serif;
+    font-weight: 300;
+    color: #2f8bc5;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
